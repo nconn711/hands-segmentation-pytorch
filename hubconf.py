@@ -11,6 +11,7 @@ dependencies = ['torch', 'pytorch_lightning']
 from model import HandSegModel
 import gdown
 import os
+import torch
 
 
 
